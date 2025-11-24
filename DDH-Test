@@ -1,0 +1,19 @@
+
+# Create a new directory
+mkdir my-project
+cd my-project
+
+# Initialize Git
+git init
+
+
+# Create a sample file
+echo "# My Project" > README.md
+
+# Stage the file
+git add README.md
+
+# Commit the file
+git commit -m "Initial commit"
+
+git clone https://github.com/username/my-project.git
