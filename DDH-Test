@@ -15,5 +15,7 @@ git add README.md
 
 # Commit the file
 git commit -m "Initial commit"
+//sfsdgdbcfl
+git clone  https://github.com/username/my-project.git
 
 git clone https://github.com/username/my-project.git
