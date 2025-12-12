@@ -31,3 +31,8 @@ git commit -m "Initial commit"
 //sfsdgdbcfl
 git clone  https://github.com/username/my-project.git
 
+
+# Commit the file
+git commit -m "Initial commit"
+//sfsdgdbcfl
+git clone  https://github.com/username/my-project.git
