@@ -64,5 +64,10 @@ git clone  https://github.com/username/my-project.git
 SDV commit Version 10.0
 SDV commit Version 10.0l04
 
+# Commit the file
+git commit -m "Initial commit"
+//sfsdgdbcfl
+git clone  https://github.com/username/my-project.git
+
 SDV commit Version 10.0
 SDV commit Version 10.0l04
